@@ -6,10 +6,9 @@ Welcome to the official repository for our data science research project. This s
 ---
 
 ## 1. Administrative Information / 行政資訊
-* **Group Number / 組別編號**: Group 14 
-* **組員姓名/學號**: 
+* **Project Type / 專案型態**: Individual Project / 個人獨立作業
+* **Student Name / Student ID (學生姓名/學號)**: 
   * 鍾肇紘 113370240
-  * 黃柏維 111370234
 
 ---
 
@@ -65,17 +64,3 @@ The inferential architecture reveals that the global multiple regression model h
 
 推論統計架構顯示，全域多元線性迴歸模型具備極強的統計解釋力（$R^2 = 24.6\%$，全域模型 $F = 1315, p < 0.0001$），證實入門物質共同解釋了青少年高中生將近四分之一的硬性毒品行為變異。更關鍵的是，微觀層面的 Tukey HSD 檢定結果強烈支持**「共同責任模型（Synergistic Model）」**並駁斥了傳統獨立的入門磚假說。數據顯示，從 `G1 完全清白組` 跨越至 `G4 單獨大麻組` 的硬毒品風險增幅在統計上**完全不顯著**（$p = 0.5614$）；然而，一旦背景中存在飲酒行為，大麻的加入便會觸發強烈的協同催化作用，引發 `G5` 到 `G8` 之間全表最高的跨越式飆升（$\text{meandiff} = 0.6604, p < 0.0001$）。在全域 OLS 模型中，**酒精展現出最強的獨立預測推力（$\beta = 0.2182, p < 0.0001$）**，排序高於香菸（$\beta = 0.2079$）與大麻（$\beta = 0.1945$）。這表明大麻的入門磚風險高度取決於涉入背景，酒精才是解鎖、並引導青少年走向重度非法毒品濫用的首要開拓物質。
 
----
-
-## 6. Project Resources & Presentation Video / 專案資源與成果介紹影片
-
-To facilitate reproducibility and research dissemination, all primary deliverables, source codes, and the official project explanation video directory are indexed below:
-為促進研究可重複性與學術傳播，本專案之核心成果、原始碼及官方專案解說影片目錄皆彙整如下：
-
-* **Official GitHub Repository / 專案官方倉庫**: 
-  [🔗 GitHub Repository Link](https://github.com/hung-cc/2026-Spring-Stat-2-Cycle-3)
-* **Project Presentation Video Directory / 專案成果介紹與口試解說影片目錄**: 
-  [🎬 Access the Presentation Video Directory on GitHub](https://github.com/hung-cc/2026-Spring-Stat-2-Cycle-3/tree/main/presentation%20video)
-
-*(Note: The video deliverables are securely archived within the repository's dedicated folder under `presentation video/` and can be accessed directly via web browsers for online streaming or download.)*
-*(註：影片成果已安全儲存於倉庫的專屬資料夾 `presentation video/` 中，可直接透過網頁瀏覽器點擊連結進入目錄進行線上播放或下載。)*
